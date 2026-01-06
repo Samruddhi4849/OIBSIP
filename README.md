@@ -25,32 +25,32 @@ Each folder contains:
 
 ---
 
-## ✅ Tasks Completed
+##  Tasks Completed
 
-### 🔹 Task 1: Iris Flower Classification
+###  Task 1: Iris Flower Classification
 - **Objective:** Classify iris flowers into different species using machine learning.
 - **Techniques Used:** Data preprocessing, classification models
 - **Outcome:** Successfully built a model to classify iris species based on features.
 
-📁 Folder: `Task_1_Iris_Classification`
+ Folder: `Task_1_Iris_Classification`
 
 ---
 
-### 🔹 Task 2: Unemployment Analysis in India
+###  Task 2: Unemployment Analysis in India
 - **Objective:** Analyze unemployment trends in India, especially during Covid-19.
 - **Techniques Used:** Data analysis, visualization
 - **Outcome:** Identified unemployment patterns using real-world data.
 
-📁 Folder: `Task_2_Unemployment_Analysis`
+Folder: `Task_2_Unemployment_Analysis`
 
 ---
 
-### 🔹 Task 3: Car Price Prediction
+###  Task 3: Car Price Prediction
 - **Objective:** Predict the selling price of used cars using machine learning.
 - **Techniques Used:** Regression models, feature analysis
 - **Outcome:** Built a predictive model for estimating car prices.
 
-📁 Folder: `Task_3_Car_Price_Prediction`
+ Folder: `Task_3_Car_Price_Prediction`
 
 ---
 
