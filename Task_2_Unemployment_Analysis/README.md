@@ -1,22 +1,24 @@
-# Unemployment Analysis in India
+# Task 2: Unemployment Analysis in India
 
 ## Objective
-Analyze the unemployment rate in India over time and interpret trends.
+The objective of this task is to analyze the unemployment rate in India and understand the trends across different regions and time periods, with special focus on the impact of COVID-19.
 
-## Dataset
-Dataset from Kaggle: Unemployment in India  
-(Contains unemployment rate, years, and region data)
+## Steps Performed
+1. Imported the required Python libraries for data analysis and visualization.
+2. Loaded the unemployment dataset and examined its structure.
+3. Cleaned the dataset by handling missing values and formatting columns.
+4. Performed exploratory data analysis (EDA) to understand unemployment trends.
+5. Created visualizations such as line plots and bar charts to analyze patterns.
+6. Analyzed the impact of COVID-19 on unemployment rates.
+7. Summarized insights based on the analysis.
 
 ## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
-## Key Tasks
-- Loaded and cleaned the dataset
-- Visualized unemployment rate trends
-- Compared rates across years and regions
-- Interpreted trends with simple insights
-
-
+## Outcome
+The analysis revealed significant variations in unemployment rates across different states and time periods. A noticeable increase in unemployment was observed during the COVID-19 period, highlighting its economic impact.
