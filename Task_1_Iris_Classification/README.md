@@ -1,10 +1,5 @@
 # Iris Flower Classification
 
-This project is part of my Data Science Internship at Oasis Infobyte.
-
-## Objective
-To classify iris flowers into Setosa, Versicolor, and Virginica using machine learning.
-
 # Task 1: Iris Flower Classification
 
 ## Objective
